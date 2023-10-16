@@ -1,5 +1,0 @@
-﻿  UnitConverter.cpp
-C:\Users\phili\OneDrive\Desktop\cplusplus\UnitConverter\UnitConverter.cpp(93,36): warning C4101: 'e': unreferenced local variable
-C:\Users\phili\OneDrive\Desktop\cplusplus\UnitConverter\UnitConverter.cpp(97,32): warning C4101: 'e': unreferenced local variable
-  LINK : C:\Users\phili\OneDrive\Desktop\cplusplus\UnitConverter\x64\Debug\UnitConverter.exe not found or not built by the last incremental link; performing full link
-  UnitConverter.vcxproj -> C:\Users\phili\OneDrive\Desktop\cplusplus\UnitConverter\x64\Debug\UnitConverter.exe
