@@ -1,4 +1,4 @@
-// Filename: main.cpp
+// Filename: UnitConverter.cpp
 // Purpose: This program converts between different units (inches, cm, kg, lbs).
 // Author: Philip Lee
 #include <iostream>
