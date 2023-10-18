@@ -23,7 +23,7 @@ constexpr int lower_bound = 1;
 constexpr int upper_bound = 10;
 
 // Function to print prompts to the console
-void printPrompt(std::string prompt, bool nl = true)
+void printPrompt(const std::string& prompt, bool nl = true)
 {
 	if (nl)
 	{
