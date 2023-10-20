@@ -1,7 +1,14 @@
-// File: Learning.cpp
-// Author: Philip Lee
-// Description: This file serves as a repository of useful tips and tricks in C++ programming.
-// Each function or code snippet is accompanied by comments explaining its utility and advantages.
+/**
+ * @file    Learning.cpp
+ * @author  Philip Lee
+ * @date    October 20, 2023
+ * @version 1.0
+ *
+ * @brief   File containing various tips/tricks for C++.
+ *
+ * This file serves as a repository of useful tips and tricks in C++ programming.
+ * Each function or code snippet is accompanied by comments explaining its utility and advantages.
+ */
 
 #include <iostream>
 #include <algorithm>
@@ -36,5 +43,4 @@ void cleverMinNum()
 	// x1 will hold the minimum value among a, b, c, d, e
 }
 
-// Add more tips and tricks as separate functions or code snippets, 
-// each accompanied by detailed comments.
+
